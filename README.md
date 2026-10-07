@@ -6,5 +6,3 @@ Made with Python tkinter, no extra dependencies.
 ## Features
 - Scan files in current directory
 - Export file list to txt
-
-python file_lister.py
